@@ -1,0 +1,29 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "Bruno",
+      "email": "brunoqwx@hotmail.com",
+      "xp": 0,
+      "highscore": 0
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://fontmeme.com/temporary/3314fd1bb4ba8d173b2194cc2272dbb7.png"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://fontmeme.com/temporary/3314fd1bb4ba8d173b2194cc2272dbb7.png"
+    },
+    {
+      "name": "Colors",
+      "image": "https://fontmeme.com/temporary/3314fd1bb4ba8d173b2194cc2272dbb7.png",
+      "id": 3
+    }
+  ]
+}
